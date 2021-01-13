@@ -5,6 +5,7 @@ import view.LoginView;
 
 public class App {
 
+	// day la ham main
 	public static void main(String[] args)
 	{
 		EventQueue.invokeLater(new Runnable()
