@@ -16,6 +16,7 @@ public class App {
 				LoginController controller = new LoginController(view);
 				//hien thi man hinh login
 				controller.showLoginView();
+				controller.showMessage();
 			}
 		});
 	}
